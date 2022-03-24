@@ -11400,8 +11400,8 @@ section {
 }
 
 i {
-  width: 100%;
-  height: 100%;
+  width: 1em;
+  height: 1em;
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .button {
